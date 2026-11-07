@@ -1,63 +1,45 @@
-<h1 align="center">Kevin Fajardo</h1>
-<h3 align="center">Ingeniero de Software · Backend · Cloud & DevOps</h3>
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs1NjBsam40YmlnMHc5a3RkZzlzaWltbnNpenVibTJnaDNoYzNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+</div>
 
-###
+<h1 align="center">Kevin Fajardo</h1>
+<h3 align="center">Software Developer · Backend · Applied AI · Infrastructure</h3>
 
 <p align="center">
-Construyo sistemas que escalan. Vivo en el servidor, pienso en contenedores.
+  I design and build backend systems, integrate artificial intelligence into real-world products,
+  and develop infrastructure to bring software into production.
 </p>
 
-###
+---
 
-<div align="left">
+### 👨‍💻 About Me
 
-- 🔭 Más de 2 años construyendo sistemas en producción con **NestJS + TypeScript**
-- ⚙️ Backend, arquitectura limpia y APIs que aguantan
-- 🚀 Infra en contenedores: **Podman, Docker, Kubernetes** sobre Linux
-- ☁️ Especializándome en **Cloud & DevOps**
-- 🧪 Actualmente liderando la tecnología de un negocio de cero: e-commerce, automatización y CI/CD
-- 💡 Antes: fundador de **NexaCore Labs** (agentes de IA para ventas B2B)
+- ⚙️ Experienced in backend development with **TypeScript, Node.js, and NestJS**.
+- 🏗️ Interested in software architecture, scalable systems, APIs, and database design.
+- 🤖 Building and integrating **AI agents, LLMs, RAG, and automation workflows**.
+- 🐧 Working with Linux, containers, and infrastructure tools such as **Docker and Podman**.
+- ☁️ Exploring Cloud, CI/CD, virtualization, and deployment automation.
+- 🚀 Founder of **NexaCore Labs**, focused on AI-powered solutions and business automation.
 
-</div>
-
-###
+### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45" alt="graphql" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="45" alt="podman" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes" />
-  <img width="10" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws" /> -->
-  <!-- <img width="10" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="Podman" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
 </div>
 
-###
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kevin-daniel-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-</div>
-
-###
